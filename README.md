@@ -5,3 +5,6 @@
 
 ## For start game "brain-even"
 [![asciicast](https://asciinema.org/a/645073.svg)](https://asciinema.org/a/645073)
+
+## For start game "brain-calc"
+[![asciicast](https://asciinema.org/a/w9N3D5npQKuNzpG1IYou2l3md.svg)](https://asciinema.org/a/w9N3D5npQKuNzpG1IYou2l3md)
