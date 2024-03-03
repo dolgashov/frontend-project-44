@@ -1,2 +1,2 @@
 // eslint-disable-next-line import/prefer-default-export
-export const randomNumber = Math.floor(Math.random() * 100) + 1;
+export const randomNumber = (min, max) => Math.floor(Math.random() * (max - min)) + min;
