@@ -8,3 +8,6 @@
 
 ## For start game "brain-calc"
 [![asciicast](https://asciinema.org/a/w9N3D5npQKuNzpG1IYou2l3md.svg)](https://asciinema.org/a/w9N3D5npQKuNzpG1IYou2l3md)
+
+## For start game "brain-gcd"
+[![asciicast](https://asciinema.org/a/645501.svg)](https://asciinema.org/a/645501)
