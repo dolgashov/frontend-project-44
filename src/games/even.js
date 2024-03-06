@@ -1,6 +1,6 @@
 import { randomNumber } from '../utils.js';
 
-import gameLogicLaunch from '../gameLogic.js';
+import gameLogicLaunch from '../index.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 
