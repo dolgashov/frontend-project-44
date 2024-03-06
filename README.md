@@ -11,3 +11,6 @@
 
 ## For start game "brain-gcd"
 [![asciicast](https://asciinema.org/a/645501.svg)](https://asciinema.org/a/645501)
+
+## For stsrt game "brain-progression"
+[![asciicast](https://asciinema.org/a/9TrdDfYCJCSrgpNx70Ai7Ij7P.svg)](https://asciinema.org/a/9TrdDfYCJCSrgpNx70Ai7Ij7P)
