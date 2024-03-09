@@ -3,7 +3,13 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/2a8437cb1d127976ae0c/maintainability)](https://codeclimate.com/github/dolgashov/frontend-project-44/maintainability)
 
+## System requirements:
+- node.js 13+
+
 ## Game №1 "Even number"
+Необходимо реализовать игру "Проверка на чётность". Суть игры в следующем: пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
+## For start game:
+brain-even
 [![asciicast](https://asciinema.org/a/645073.svg)](https://asciinema.org/a/645073)
 
 ## Game №2 "Calculator"
