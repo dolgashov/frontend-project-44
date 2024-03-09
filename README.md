@@ -3,11 +3,19 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/2a8437cb1d127976ae0c/maintainability)](https://codeclimate.com/github/dolgashov/frontend-project-44/maintainability)
 
+## Brain games project
+"Brain Games" - a set of five console games, built on the principle of popular mobile applications for brain pumping. Each game asks questions to which you have to give correct answers. After three correct answers, the game is considered to be completed. Incorrect answers end the game and prompt you to go through it again. Games:
+- Calculator. Arithmetic expressions to be calculated;
+- Determining an even number;
+- Determining the greatest common divisor;
+- Progression. Finding missing numbers in a sequence of numbers;
+- Determining a prime number;
+
 ## System requirements:
 - node.js 13+
 
 ## Game №1 "Even number"
-Необходимо реализовать игру "Проверка на чётность". Суть игры в следующем: пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
+The rules of the game: the user is shown a random number. The user has to answer 'yes' if the number is even or 'no' if it is odd.
 ## For start game:
 brain-even
 [![asciicast](https://asciinema.org/a/645073.svg)](https://asciinema.org/a/645073)
