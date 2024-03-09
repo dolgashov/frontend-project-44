@@ -20,7 +20,7 @@ const gameLogicLaunch = (generateRound, description) => {
     }
   }
 
-  console.log(`Congratulation ${name}!`);
+  console.log(`Congratulations ${name}!`);
 };
 
 export default gameLogicLaunch;
